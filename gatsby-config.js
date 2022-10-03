@@ -24,12 +24,12 @@ module.exports = {
       // See the theme's README for all available options
       options: {
         navigation: [
-          { name: `Projects`, slug: `/projects` },
-          { name: `Art`, slug: `/art` },
-          { name: `About`, slug: `/about` },
           { name: `Photography`, slug: `/photography` },
           { name: `Print-Graphics`, slug: `/printgraphics` },
           { name: `Content Creation`, slug: `/contentcreation` },
+          { name: `Edutainment`, slug: `/edutainment` },
+          { name: `Projects`, slug: `/projects` },
+          { name: `About`, slug: `/about` },
         ],
       },
     },
