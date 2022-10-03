@@ -10,7 +10,7 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-jodie/gatsby-config.js
-    siteTitle: `monemsProfile`,
+    siteTitle: `atm monemul haque`,
     siteTitleAlt: `monemsProfile`,
     siteHeadline: `atm monemul haque || Portfolio`,
     siteUrl: `https://monemsprofile.com`,
@@ -42,9 +42,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `jodie - @lekoarts/gatsby-theme-jodie`,
-        short_name: `jodie`,
-        description: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
+        name: `PROFILE || atm monemul haque`,
+        short_name: `monemsProfile`,
+        description: `Portfolio site of atm monemul haque.`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
